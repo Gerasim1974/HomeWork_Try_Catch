@@ -1,0 +1,15 @@
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\appHomeWork11.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\appHomeWork11.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\appHomeWork11.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\appHomeWork11.AssemblyInfo.cs
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\appHomeWork11.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\bin\Debug\net6.0\appHomeWork11.exe
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\bin\Debug\net6.0\appHomeWork11.deps.json
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\bin\Debug\net6.0\appHomeWork11.runtimeconfig.json
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\bin\Debug\net6.0\appHomeWork11.dll
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\bin\Debug\net6.0\appHomeWork11.pdb
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\appHomeWork11.dll
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\refint\appHomeWork11.dll
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\appHomeWork11.pdb
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\appHomeWork11.genruntimeconfig.cache
+C:\WorkProgramm\HomeWorkException\slnHomeWork11\appHomeWork11\obj\Debug\net6.0\ref\appHomeWork11.dll
